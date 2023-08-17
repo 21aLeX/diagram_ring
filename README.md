@@ -4,7 +4,7 @@
 
 Live Demo [**diagramRing**](https://diagram-ring.vercel.app/)
 
-![Demo](https://github.com/21aLeX/diagram_ring/raw/master/src/assets/demo.png)
+![Demo](https://github.com/21aLeX/diagram_ring/blob/master/src/assets/demo.PNG)
 
 При клике на область кольцевой диаграммы, генерируются новые случайные данные и происходит перестроение диаграммы.
 
